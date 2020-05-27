@@ -1,2 +1,4 @@
 # RUST_Endeavors
-ECS 40 
+
+Past programs from taking ECS40 (Object Oriented Programming) at UC Davis 
+
